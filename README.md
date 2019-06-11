@@ -17,7 +17,7 @@ Link to the product page http://www.chinalctech.com/cpzx/Programmer/Power_Module
 
 ## Contents
 
-**Documentation:** Assembley Instructions, Datasheet
+**Documentation:** Assembley Instructions, BOM
 
 ## License
 
