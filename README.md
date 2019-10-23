@@ -21,6 +21,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Current Rating: 3A (max)
 - Wire Length: 1m
 - Dimensions: 45.7(W) x 42.2(L) x 14.7(H) (mm) PCB 
+- Weight: 42g
 
 **Major components:** 
 - LM2596 Voltage Display Module
