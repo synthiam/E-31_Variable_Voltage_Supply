@@ -6,7 +6,7 @@ If you are new to GitHub and would like to create a derivative of this project, 
 
 ## Description
 
-Out of our passion to solve the issue of time waste in the robot creation process, EZ-Builder was born. The EZ-Builder software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
+Out of our passion to solve the issue of time waste in the robot creation process, ARC was born. The ARC software platform reduces the time it takes to get from idea to implementation. Since 2011 we have been listening to the challenges robot builders encounter and continue to provide them with an ever expanding toolbox of solutions. Join us on this journey!
 
 We didn't stop at the software, we also made time saving hardware solutions. This Variable Voltage Supply reference design is one of them. This is an OEM product from China LC Technologies. We've modified their LM2596 voltage display module to be more user friendly. We've added a 2 wire dupont input with reverse polarity protection and black &  red output wires with Alligator clips. A unique feature of this reference design is that it is plug and play, instantly application ready. We want to share these files with you so you can create your own version for your community and customers to enjoy!
 
@@ -17,7 +17,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - 2 digital 7-segment Voltage display
 - Input/Output voltage display select button
 - Voltage Input requirement: 4.1-37VDC 
-- Voltage Ouput: 1.2-37VDC
+- Voltage Output: 1.2-37VDC
 - Current Rating: 3A (max)
 - Wire Length: 1m
 - Dimensions: 45.7(W) x 42.2(L) x 14.7(H) (mm) PCB 
